@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- 👯 Je suis à la recherche d'une **alternance dans le cadre d'une formation CDA (Concepteur Développeur d'Applications)**
+- 👯 Je suis à la recherche d'un **stage dans le cadre d'une formation CDA (Concepteur Développeur d'Applications)**
 
 - 👨‍💻 All of my projects are available at [https://quentin-vigier-portfolio.netlify.app](https://quentin-vigier-portfolio.netlify.app)
 
